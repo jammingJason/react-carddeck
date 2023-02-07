@@ -1,0 +1,11 @@
+.Card{
+    width: fit-content;
+}
+
+.Card-btn{
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 10px;
+    left: 150px
+}
+
